@@ -1,0 +1,11 @@
+Student ID,Age,Gender,Major,Math Score,Physics Score,Chemistry Score,English Score,Total
+1,20,Male,Mathematics,85,90,92,80,347
+2,21,Female,Physics,78,85,,90,350
+3,19,Male,Chemistry,92,88,80,78,320
+4,22,Female,Computer Science,80,82,80,86,100
+5,18,Male,Mathematics,88,95,80,84,400
+6,20,Female,Physics,76,80,80,88,380
+7,19,Male,Chemistry,,87,80,82,600
+8,21,Female,Computer,82,78,80,90,290
+9,18,Male,Mathematics,90,92,80,92,310
+10,22,Female,Physics,79,83,80,95,325
